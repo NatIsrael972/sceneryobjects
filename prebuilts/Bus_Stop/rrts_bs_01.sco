@@ -10,8 +10,11 @@ LTA_SG_CUSTOM
 rrts_bs_01.cfg
 
 =======================================
-++++++++++++++++++++++++++++++++++++++++++++++
 
+[rendertype]
+4
+
+### BUS STOP SIGN ###
 [texttexture]
 0
 DIN
@@ -58,6 +61,7 @@ material_4.png
 [matl_alpha]
 1
 
+### BUS STOP ###
 
 [mesh]
 glass.o3d
@@ -184,20 +188,13 @@ Ende der Mesh-Konfiguration
 
 
 [boundingbox]
-2
-3.5
-2.2
+9
+3
+2.4
 0
-0
-1.1
+2.1
+1.2
 
-[VFDmaxmin]
--1.5
--2
--0.5
-1.5
-2
-2.5
 
 [maplight]
 0

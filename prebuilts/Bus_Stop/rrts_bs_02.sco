@@ -136,20 +136,13 @@ Ende der Mesh-Konfiguration
 
 
 [boundingbox]
-2
-3.5
-2.2
-0
-0
-1.1
+4.5
+1.8
+2.4
+-2.2
+2.7
+1.2
 
-[VFDmaxmin]
--1.5
--2
--0.5
-1.5
-2
-2.5
 
 [maplight]
 -2.25
