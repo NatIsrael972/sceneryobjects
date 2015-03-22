@@ -1,17 +1,20 @@
 [groups]
 2
-RRTS Studios
+RRTS Studios OPENSOURCE
 Bus Stop
 
 [friendlyname]
-LTA_SG_CUSTOM_SHORT
+LTA_SG_CUSTOM
 
 [passengercabin]
-rrts_bs_02.cfg
+rrts_bs_01.cfg
 
 =======================================
-++++++++++++++++++++++++++++++++++++++++++++++
 
+[rendertype]
+4
+
+### BUS STOP SIGN ###
 [texttexture]
 0
 DIN
@@ -23,10 +26,10 @@ DIN
 0
 
 [mesh]
-sign3.o3d
+sign.o3d
 
 [matl]
-red.png
+material_4.png
 0
 
 [useTextTexture]
@@ -46,10 +49,10 @@ DIN
 0
 
 [mesh]
-sign4.o3d
+sign1.o3d
 
 [matl]
-red.png
+material_4.png
 0
 
 [useTextTexture]
@@ -58,12 +61,13 @@ red.png
 [matl_alpha]
 1
 
+### BUS STOP ###
 
 [mesh]
-glassshort.o3d
+glass.o3d
 
 [mesh]
-ltashort.o3d
+lta.o3d
 
 [shadow]
 
@@ -130,22 +134,70 @@ material_10.png
 [matl_alpha]
 0
 
+++++++++++++++++++++++++++++++++++++++++++++++
 
+[texttexture]
+0
+DIN
+1500
+100
+1
+0
+0
+0
+
+[mesh]
+sign.o3d
+
+[matl]
+material_4.png
+0
+
+[useTextTexture]
+0
+
+[matl_alpha]
+2
+
+[texttexture]
+0
+DIN
+1500
+100
+1
+0
+0
+0
+
+[mesh]
+sign1.o3d
+
+[matl]
+material_4.png
+0
+
+[useTextTexture]
+0
+
+[matl_alpha]
+2
+
+##############################################
 Ende der Mesh-Konfiguration
 
 
 
 [boundingbox]
-4.5
-1.8
+9
+3
 2.4
--2.2
-2.7
+0
+2.1
 1.2
 
 
 [maplight]
--2.25
+0
 2.5
 1.5
 1
