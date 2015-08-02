@@ -1,10 +1,10 @@
 [groups]
 2
-RRTS Studios OPENSOURCE
+RRTS Studios
 Bus Stop
 
 [friendlyname]
-LTA_SG_CUSTOM
+WDL_LONG_02
 
 [passengercabin]
 rrts_bs_01.cfg
@@ -70,69 +70,6 @@ glass.o3d
 lta.o3d
 
 [shadow]
-
-[matl]
-material_3.png
-0
-
-[matl_alpha]
-0
-
-[matl]
-material_1.png
-1
-
-[matl_alpha]
-0
-
-[matl]
-material_2.png
-1
-
-[matl_alpha]
-0
-
-[matl]
-material_2_0.png
-1
-
-[matl_alpha]
-0
-
-[matl]
-material_3.png
-1
-
-[matl_alpha]
-0
-
-[matl]
-material_6.png
-1
-
-[matl_alpha]
-0
-
-[matl]
-material_8.png
-1
-
-[matl_alpha]
-0
-
-[matl]
-material_9.png
-1
-
-[matl_alpha]
-0
-
-[matl]
-material_10.png
-1
-
-[matl_alpha]
-0
 
 ++++++++++++++++++++++++++++++++++++++++++++++
 

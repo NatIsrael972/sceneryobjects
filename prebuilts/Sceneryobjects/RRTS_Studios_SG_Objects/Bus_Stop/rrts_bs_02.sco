@@ -1,10 +1,10 @@
 [groups]
 2
-RRTS Studios OPENSOURCE
+RRTS Studios
 Bus Stop
 
 [friendlyname]
-LTA_SG_CUSTOM_SHORT
+WDL_SHORT_02
 
 [passengercabin]
 rrts_bs_02.cfg
@@ -66,69 +66,6 @@ glassshort.o3d
 ltashort.o3d
 
 [shadow]
-
-[matl]
-material_3.png
-0
-
-[matl_alpha]
-0
-
-[matl]
-material_1.png
-1
-
-[matl_alpha]
-0
-
-[matl]
-material_2.png
-1
-
-[matl_alpha]
-0
-
-[matl]
-material_2_0.png
-1
-
-[matl_alpha]
-0
-
-[matl]
-material_3.png
-1
-
-[matl_alpha]
-0
-
-[matl]
-material_6.png
-1
-
-[matl_alpha]
-0
-
-[matl]
-material_8.png
-1
-
-[matl_alpha]
-0
-
-[matl]
-material_9.png
-1
-
-[matl_alpha]
-0
-
-[matl]
-material_10.png
-1
-
-[matl_alpha]
-0
 
 
 Ende der Mesh-Konfiguration

@@ -2,10 +2,10 @@
 <COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1">
     <asset>
         <contributor>
-            <authoring_tool>SketchUp 14.1.1282</authoring_tool>
+            <authoring_tool>SketchUp 15.2.685</authoring_tool>
         </contributor>
-        <created>2015-02-22T11:16:16Z</created>
-        <modified>2015-02-22T11:16:16Z</modified>
+        <created>2015-08-02T04:11:32Z</created>
+        <modified>2015-08-02T04:11:32Z</modified>
         <unit meter="0.0254" name="inch" />
         <up_axis>Z_UP</up_axis>
     </asset>
@@ -63,7 +63,7 @@
                     </technique_common>
                 </source>
                 <source id="ID11">
-                    <float_array id="ID19" count="16">-0.9996182 2.002126 -2.047306 1.002241 -0.9996182 1.002241 -2.047306 2.002126 -22.25 17.62855 -11.375 17.62855 -22.25 5 -11.375 5</float_array>
+                    <float_array id="ID19" count="16">-1.00046 1.999885 -2 1 -1.00046 1 -2 1.999885 -22.25 17.62855 -11.375 17.62855 -22.25 5 -11.375 5</float_array>
                     <technique_common>
                         <accessor count="8" source="#ID19" stride="2">
                             <param name="S" type="float" />
@@ -110,7 +110,7 @@
                     </technique_common>
                 </source>
                 <source id="ID29">
-                    <float_array id="ID32" count="16">-1.972729 2.003862 -3.020417 1.003977 -1.972729 1.003977 -3.020417 2.003862 -11.375 17.62855 -0.5 17.62855 -11.375 5 -0.5 5</float_array>
+                    <float_array id="ID32" count="16">-0.0002669028 1.999566 -0.9998073 0.999681 -0.0002669028 0.999681 -0.9998073 1.999566 -11.375 17.62855 -0.5 17.62855 -11.375 5 -0.5 5</float_array>
                     <technique_common>
                         <accessor count="8" source="#ID32" stride="2">
                             <param name="S" type="float" />
