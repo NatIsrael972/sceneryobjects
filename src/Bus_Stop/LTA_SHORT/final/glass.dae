@@ -4,8 +4,8 @@
         <contributor>
             <authoring_tool>SketchUp 15.2.685</authoring_tool>
         </contributor>
-        <created>2015-08-04T10:21:00Z</created>
-        <modified>2015-08-04T10:21:00Z</modified>
+        <created>2015-08-05T10:14:57Z</created>
+        <modified>2015-08-05T10:14:57Z</modified>
         <unit meter="0.0254" name="inch" />
         <up_axis>Z_UP</up_axis>
     </asset>
@@ -69,7 +69,7 @@
         </geometry>
     </library_geometries>
     <library_materials>
-        <material id="ID3" name="advert_panel">
+        <material id="ID3" name="advert_panel_S00">
             <instance_effect url="#ID4" />
         </material>
     </library_materials>
@@ -98,7 +98,7 @@
     </library_effects>
     <library_images>
         <image id="ID5">
-            <init_from>glass/advert_panel.png</init_from>
+            <init_from>glass/advert_panel_S00.png</init_from>
         </image>
     </library_images>
     <scene>

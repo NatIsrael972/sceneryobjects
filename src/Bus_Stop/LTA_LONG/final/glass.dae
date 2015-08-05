@@ -4,8 +4,8 @@
         <contributor>
             <authoring_tool>SketchUp 15.2.685</authoring_tool>
         </contributor>
-        <created>2015-08-04T10:16:31Z</created>
-        <modified>2015-08-04T10:16:31Z</modified>
+        <created>2015-08-05T10:14:31Z</created>
+        <modified>2015-08-05T10:14:31Z</modified>
         <unit meter="0.0254" name="inch" />
         <up_axis>Z_UP</up_axis>
     </asset>
@@ -139,10 +139,10 @@
         <material id="ID3" name="material_1">
             <instance_effect url="#ID4" />
         </material>
-        <material id="ID12" name="advert_panel01">
+        <material id="ID12" name="advert_panel_L01">
             <instance_effect url="#ID13" />
         </material>
-        <material id="ID21" name="advert_panel">
+        <material id="ID21" name="advert_panel_L00">
             <instance_effect url="#ID22" />
         </material>
     </library_materials>
@@ -216,10 +216,10 @@
             <init_from>glass/material_1.png</init_from>
         </image>
         <image id="ID14">
-            <init_from>glass/advert_panel01.png</init_from>
+            <init_from>glass/advert_panel_L01.png</init_from>
         </image>
         <image id="ID23">
-            <init_from>glass/advert_panel.png</init_from>
+            <init_from>glass/advert_panel_L00.png</init_from>
         </image>
     </library_images>
     <scene>
