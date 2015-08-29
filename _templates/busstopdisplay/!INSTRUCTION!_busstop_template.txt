@@ -1,0 +1,27 @@
+Template for Busstop Display
+RRTS Studios
+(C) Ren Jie 2015
+===========================================================================================
+
+Revisions:
+20150829 - First Release
+
+Formats Included:
+GIMP (.xcf)
+Adobe Photoshop (.psd)
+
+Instructions:
+
+1. Open either in GIMP/Photoshop
+2. Paint ONLY above Template
+3. Export as .png
+5. Replace the existing images in Texture folder of the object.
+
+Tips:
+
+BTFrame.psd -> Bottom and Top texture of object
+Frame.psd -> Front Frame texture of object, DO NOT PAINT IN RED REGION
+LRFrame.psd -> Left and Right texture of object
+Rearframe.psd -> Rear texture of object
+
+TO MODIFY LEG COLOR (AS A WHOLE) -> Change legs.png color in object texture folder

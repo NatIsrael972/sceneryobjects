@@ -1,0 +1,24 @@
+Template for LTA Long/Short Busstop
+RRTS Studios
+(C) Ren Jie 2015
+===========================================================================================
+
+Revisions:
+20150829 - First Release
+
+Formats Included:
+GIMP (.xcf)
+Adobe Photoshop (.psd)
+
+Instructions:
+
+1. Open either in GIMP/Photoshop
+2. Paint ONLY above Template
+3. Export as .png
+4. Make two copies, name it as 'advert_panel_L00.png' and 'advert_panel_L01.png'
+5. Replace the existing images in Texture folder of the object.
+
+Tips:
+
+Short Busstops only show 1 L/S and 2 L/S panels.
+Long Busstops show all 4 panels.
