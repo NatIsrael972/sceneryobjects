@@ -7,9 +7,10 @@ Sceneryobjects are allowed to be edited, modified or redistributed, on terms tha
 For developers who want to use the addon as-is. Download and copy entire 'sceneryobjects' folder into your OMSI directory.
 
 #Product & Type of Object
-Series | Model | Description
-Provio M | 1L/1S | Long/Short Bus Stops
-Krexan M | 2 | Bus Stop Arrival Sign
+| Series | Model | Description |
+|--------|-------|-------------|
+| Provio M | 1L/1S | Long/Short Bus Stops |
+| Krexan M | 2 | Bus Stop Arrival Sign |
 
 (C) RRTS Studios 2015
 An RRTS Studios Opensource Initiative

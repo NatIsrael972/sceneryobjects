@@ -10,9 +10,10 @@ For developers who want to modify the textures of the object using original temp
 For developers who want to edit from source (ie. from Sketchup or Collada/.x file to change the aesthetics)
 
 #Product & Type of Object
-Series | Model | Description
-Provio M | 1L/1S | Long/Short Bus Stops
-Krexan M | 2 | Bus Stop Arrival Sign
+| Series | Model | Description |
+|--------|-------|-------------|
+| Provio M | 1L/1S | Long/Short Bus Stops |
+| Krexan M | 2 | Bus Stop Arrival Sign |
 
 (C) RRTS Studios 2015
 An RRTS Studios Opensource Initiative

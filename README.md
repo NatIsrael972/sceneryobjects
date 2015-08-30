@@ -16,9 +16,10 @@ How to download?
 Click 'Download as Zip' on the right >>>
 
 #Product Series
-Series | Description
-Provio | Bus Stop
-Krexan | Bus Stop Arrival Sign
+| Series | Description |
+|--------|-------------|
+| Provio | Bus Stop |
+| Krexan | Bus Stop Arrival Sign |
 
 #Copyright Acknowledgements :
 Busstop Display contains traces of scripts from OMSI German Street Side Busstop Display demonstration object. (modified slightly)

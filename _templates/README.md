@@ -7,9 +7,10 @@ Sceneryobjects are allowed to be edited, modified or redistributed, on terms tha
 For developers who want to modify the textures of the object using original templates
 
 #Product & Type of Object
-Series | Model | Description
-Provio M | 1L/1S | Long/Short Bus Stops
-Krexan M | 2 | Bus Stop Arrival Sign
+| Series | Model | Description |
+|--------|-------|-------------|
+| Provio M | 1L/1S | Long/Short Bus Stops |
+| Krexan M | 2 | Bus Stop Arrival Sign |
 
 (C) RRTS Studios 2015
 An RRTS Studios Opensource Initiative
