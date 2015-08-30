@@ -6,22 +6,13 @@ Sceneryobjects are allowed to be edited, modified or redistributed, on terms tha
 #_template
 For developers who want to modify the textures of the object using original templates
 
-# Prebuilts
-For developers who want to use the addon as-is. Download and copy entire 'sceneryobjects' folder into your OMSI directory.
-
 #src
 For developers who want to edit from source (ie. from Sketchup or Collada/.x file to change the aesthetics)
 
-How to download?
-Click 'Download as Zip' on the right >>>
-
-#Product Series
-Series | Description
-Provio | Bus Stop
-Krexan | Bus Stop Arrival Sign
-
-#Copyright Acknowledgements :
-Busstop Display contains traces of scripts from OMSI German Street Side Busstop Display demonstration object. (modified slightly)
+#Product & Type of Object
+Series | Model | Description
+Provio M | 1L/1S | Long/Short Bus Stops
+Krexan M | 2 | Bus Stop Arrival Sign
 
 (C) RRTS Studios 2015
 An RRTS Studios Opensource Initiative

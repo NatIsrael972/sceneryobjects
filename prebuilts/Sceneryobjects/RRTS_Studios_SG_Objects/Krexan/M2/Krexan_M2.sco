@@ -1,11 +1,11 @@
 [groups]
 2
 RRTS Studios
-Bus Stop Display
+Krexan
 
 
 [friendlyname]
-WDL_BUSSTOP_DISPLAY_CUSTOM
+M2
 
 Complexity:
 0 - very important object (standard) (crossings, normal buildings, street lights, traffic lights, traffic signs, busstops)

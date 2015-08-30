@@ -1,13 +1,13 @@
 [groups]
 2
 RRTS Studios
-Bus Stop
+Provio
 
 [friendlyname]
-WDL_LONG_02
+M1L
 
 [passengercabin]
-rrts_bs_01.cfg
+Provio_M1L.cfg
 
 =======================================
 
