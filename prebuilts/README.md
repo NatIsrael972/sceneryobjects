@@ -11,6 +11,7 @@ For developers who want to use the addon as-is. Download and copy entire 'scener
 |--------|-------|-------------|
 | Provio M | 1L/1S | Long/Short Bus Stops |
 | Krexan M | 2 | Bus Stop Arrival Sign |
+| Krexan P | 7 | Bus Stop Adv. Panel and Arrival Sign |
 
 (C) RRTS Studios 2015
 An RRTS Studios Opensource Initiative

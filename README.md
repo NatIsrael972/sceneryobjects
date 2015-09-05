@@ -20,6 +20,7 @@ Click 'Download as Zip' on the right >>>
 |--------|-------------|
 | Provio | Bus Stop |
 | Krexan | Bus Stop Arrival Sign |
+| Krexan P | 7 | Bus Stop Adv. Panel and Arrival Sign |
 
 #Copyright Acknowledgements :
 Busstop Display contains traces of scripts from OMSI German Street Side Busstop Display demonstration object. (modified slightly)
