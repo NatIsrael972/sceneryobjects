@@ -15,6 +15,7 @@ For developers who want to edit from source (ie. from Sketchup or Collada/.x fil
 | Provio M | 1L/1S | Long/Short Bus Stops |
 | Krexan M | 2 | Bus Stop Arrival Sign |
 | Krexan P | 7 | Bus Stop Adv. Panel and Arrival Sign |
+| Krexan S | 5 | Modular Bus Stop Adv. Panel, Arrival Sign and Svc/Bus Stop Info |
 
 (C) RRTS Studios 2015
 An RRTS Studios Opensource Initiative
